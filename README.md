@@ -39,4 +39,4 @@ This project provides an **M3U URL Source**. To use it, you must have one of the
 To start streaming, copy the link below and paste it into your preferred IPTV player:
 
 ```text
-[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/access/playit.m3u](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/access/playit.m3u)
+(https://raw.githubusercontent.com/cnoldperdigon1-ops/PH_CH_GB/refs/heads/main/access/Chnal.m3u)
