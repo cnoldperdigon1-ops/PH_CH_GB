@@ -38,7 +38,7 @@ Copy and paste the URL below into your supported app's "Add Playlist" or "M3U UR
 
 Stay updated with the latest channel releases, link updates, and community announcements through our official social media pages:
 
-* **Telegram:** [Join our Channel](https://t.me/JAEMSTO) — *Get real-time alerts and direct support.*
+* **Telegram:** [Join our Channel](https://t.me/+OW57H9-Pi_U5ZWI9) — *Get real-time alerts and direct support.*
 * **Facebook Page:** [Follow us on Facebook](https://www.facebook.com/profile.php?id=61587558622905) — *Community updates and news.*
 
 ---
