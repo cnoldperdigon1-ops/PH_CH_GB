@@ -5,7 +5,7 @@
 
 **Connecting the islands to the world. Local Heart. Global Pulse.**
 
-[![Telegram Updates](https://img.shields.io/badge/Telegram-Update_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JAEMSTO)
+[![Telegram Updates](https://img.shields.io/badge/Telegram-Update_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IPTVPH20)
 [![Facebook Page](https://img.shields.io/badge/Facebook-Official_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587558622905)
 [![Status](https://img.shields.io/badge/Status-Online-31E1F7?style=for-the-badge&logo=statuspage&logoColor=white)]()
 
