@@ -1,50 +1,42 @@
-# 📡 Philippines Channel & Global Channel
+<div align="center">
 
-### "Local Heart. Global Pulse."
+# 📡 CHANNEL PHILIPPINES
+### 🌏 *Philippines Channel & Global Channel*
 
-![Coverage](https://img.shields.io/badge/Coverage-Philippines_|_Global-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Android_TV_|_Mobile_|_PC-orange?style=for-the-badge)
-![M3U](https://img.shields.io/badge/Source-M3U_IPTV-red?style=for-the-badge)
+**Connecting the islands to the world. Local Heart. Global Pulse.**
 
----
-
-## 🌟 Description
-**Philippines Channel & Global Channel** is a high-performance digital hub designed to bridge the gap between regional excellence and international reach. 
-
-This repository provides a unified source for high-quality streams, capturing the unique cultural energy of the Philippines while broadcasting global perspectives to a worldwide audience. Whether you are looking for local news or international entertainment, this project keeps you connected.
+[![Telegram Updates](https://img.shields.io/badge/Telegram-Update_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JAEMSTO)
+[![Facebook Page](https://img.shields.io/badge/Facebook-Official_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587558622905)
+[![Status](https://img.shields.io/badge/Status-Online-31E1F7?style=for-the-badge&logo=statuspage&logoColor=white)]()
 
 ---
 
-## 📺 Supported Apps & Requirements
+[Quick Access](#-quick-access) • [Supported Apps](#-supported-apps) • [Community](#-community--updates) • [Setup Guide](#-setup-instructions)
 
-To use this project, you must have an IPTV player that supports M3U playlists. 
+</div>
 
-### **Primary Supported App:**
-* **Android TV (Live Channels):** Works perfectly with the native *Live Channels* app. 
-  * **Note:** You will need an "App Source" (such as a TV IR or M3U gateway app) to load the M3U URL into the system.
+## 🌟 The Description
+**CHANNEL PHILIPPINES** is a high-performance digital gateway bridging the gap between regional excellence and international reach. 
 
-### **Other Compatible Apps:**
-* **Android / Google TV:** TiviMate, OTT Navigator, IPTV Smarters.
-* **Mobile (Android/iOS):** GSE Smart IPTV, VLC Media Player.
-* **PC:** VLC Player, PotPlayer.
+This repository serves as a dual-hub:
+* **🇵🇭 Philippines Channel:** Capturing the unique cultural energy, local news, and regional entertainment of the archipelago.
+* **🌐 Global Channel:** Broadcasting international perspectives, sports, and world-class content to the global Filipino diaspora and beyond.
 
 ---
 
-## 🔗 Access Link
+## 📺 Supported Apps
+This project provides an **M3U URL Source**. To use it, you must have one of these supported players installed:
 
-Copy and paste the URL below into your supported app's "Add Playlist" or "M3U URL" section:
-
-## 📱 Connect With Us
-
-Stay updated with the latest channel releases, link updates, and community announcements through our official social media pages:
-
-* **Telegram:** [Join our Channel](https://t.me/+OW57H9-Pi_U5ZWI9) — *Get real-time alerts and direct support.*
-* **Facebook Page:** [Follow us on Facebook](https://www.facebook.com/profile.php?id=61587558622905) — *Community updates and news.*
+* **Android TV / Google TV:** * *Live Channels* (System App) — **Note:** Requires an "App Source" or M3U gateway app to import.
+  * *TiviMate* (Recommended for premium experience).
+  * *OTT Navigator*.
+* **Mobile (Android/iOS):** * *GSE Smart IPTV*, *IPTV Smarters*, or *VLC Player*.
+* **PC / Desktop:** * *VLC Media Player* or *PotPlayer*.
 
 ---
 
-## 📄 Disclaimer
-This project is for educational and personal use only. The maintainers do not host any media files; all streams are sourced from publicly available origins on the internet.
+## 🔗 Quick Access
+To start streaming, copy the link below and paste it into your preferred IPTV player:
 
----
-*Built with ❤️ for the Global Filipino Community.*
+```text
+[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/access/playit.m3u](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/access/playit.m3u)
