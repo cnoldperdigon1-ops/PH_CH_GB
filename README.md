@@ -34,5 +34,17 @@ To use this project, you must have an IPTV player that supports M3U playlists.
 
 Copy and paste the URL below into your supported app's "Add Playlist" or "M3U URL" section:
 
-```text
-[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/access/playit.m3u](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/access/playit.m3u)
+## 📱 Connect With Us
+
+Stay updated with the latest channel releases, link updates, and community announcements through our official social media pages:
+
+* **Telegram:** [Join our Channel](https://t.me/JAEMSTO) — *Get real-time alerts and direct support.*
+* **Facebook Page:** [Follow us on Facebook](https://www.facebook.com/profile.php?id=61587558622905) — *Community updates and news.*
+
+---
+
+## 📄 Disclaimer
+This project is for educational and personal use only. The maintainers do not host any media files; all streams are sourced from publicly available origins on the internet.
+
+---
+*Built with ❤️ for the Global Filipino Community.*
